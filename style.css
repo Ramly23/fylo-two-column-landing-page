@@ -346,6 +346,7 @@ img {
   justify-content: center;
   grid-template-columns: repeat(3, 45px);
   place-items: center;
+  margin-bottom: .75rem;
 }
 
 .footer__fourth .fab {
