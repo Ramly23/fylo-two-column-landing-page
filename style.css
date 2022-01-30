@@ -302,7 +302,7 @@ img {
 }
 
 .footer__container {
-  padding: 3.5rem 2rem 4.5rem;
+  padding: 3.5rem 2rem;
   row-gap: 2.5rem;
 }
 
@@ -409,7 +409,9 @@ img {
 
 
   /* Footer */
-
+  .footer__container {
+    padding: 3.5rem 2rem 8rem;
+  }
 }
 
 /* For Medium Devices */
